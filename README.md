@@ -28,7 +28,7 @@ The core lab components include:
 
 The attacker VM and any additional infrastructure are documented as implemented only when their configuration and connectivity have been verified.
 
-**Architecture diagram:** See `diagrams/soc-lab-architecture.png` when added.
+**Architecture diagram:** See `diagrams/soc-lab-architecture.png` 
 
 ## Tools and Technologies
 
@@ -88,7 +88,6 @@ Planned documentation includes:
 ## Future Improvements
 
 - Develop and test additional detection rules.
-- Build Splunk dashboards for endpoint monitoring.
 - Investigate suspicious process execution and other attack behaviors in an isolated environment.
 - Document detection validation, false positives, and investigation findings.
 - Expand log sources and improve monitoring coverage.
