@@ -28,7 +28,7 @@ The core lab components include:
 
 The attacker VM and any additional infrastructure are documented as implemented only when their configuration and connectivity have been verified.
 
-**Architecture diagram:** See `diagrams/soc-lab-architecture.png` 
+**Architecture diagram:** See `SOC Home Lab Architecture Diagram.png` 
 
 ## Tools and Technologies
 
