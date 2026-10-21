@@ -27,7 +27,7 @@ index=* EventCode=1 Image="*\\powershell.exe"
 
 ## 5. Evidence
 
-Add a screenshot of the actual Splunk search results to:
+
 
 `screenshots/powershell-event.png`
 
